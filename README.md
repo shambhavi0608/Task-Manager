@@ -1,9 +1,9 @@
 # Task-Manager
 A Java-based desktop application designed for efficient task management, featuring CRUD operations, deadline tracking, and database integration using JDBC and MySQL. This project demonstrates object-oriented programming (OOP), database handling, and UI development, making it a great example of Java application development.
-#✅ Task-Manager App (Java + JDBC + MySQL)
+✅ Task-Manager App (Java + JDBC + MySQL)
 A Java-based desktop application designed for efficient task management, featuring CRUD operations, deadline tracking, and database integration using JDBC and MySQL. This project demonstrates object-oriented programming (OOP), database handling, and UI development, making it a great example of Java application development.
 
-#🚀 Features
+🚀 Features
 ✅ User Authentication – Secure login/signup system using MySQL
 ✅ Task CRUD Operations – Add, edit, delete, and mark tasks as completed
 ✅ Deadline Management – Set due dates and receive priority-based sorting
