@@ -1,4 +1,4 @@
-# Task-Manager
+# Study-Planner
 A Java-based desktop application designed for efficient task management, featuring CRUD operations, deadline tracking, and database integration using JDBC and MySQL. This project demonstrates object-oriented programming (OOP), database handling, and UI development, making it a great example of Java application development.
 ✅ Task-Manager App (Java + JDBC + MySQL)
 A Java-based desktop application designed for efficient task management, featuring CRUD operations, deadline tracking, and database integration using JDBC and MySQL. This project demonstrates object-oriented programming (OOP), database handling, and UI development, making it a great example of Java application development.
